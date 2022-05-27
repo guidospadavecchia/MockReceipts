@@ -23,7 +23,7 @@
             "fechaVencimiento": "2023-03-01T00:00:00.000",
             "descripción": "Granos",
             "saldoTotal": 150000,
-            "saldoPendiente": 0,
+            "saldoPendiente": 50000,
             "tipoDeCambio": null,
             "moneda": "ARS",
             "codigoExterno": "4321"
@@ -37,7 +37,7 @@
             "fechaVencimiento": "2023-03-01T00:00:00.000",
             "descripción": "Ajuste de balance",
             "saldoTotal": 500,
-            "saldoPendiente": 0,
+            "saldoPendiente": 100,
             "tipoDeCambio": 200,
             "moneda": "USD",
             "codigoExterno": "ND00001"
@@ -65,7 +65,7 @@
             "fechaVencimiento": "2023-03-01T00:00:00.000",
             "descripción": "Pesticidas",
             "saldoTotal": 250000,
-            "saldoPendiente": 0,
+            "saldoPendiente": 100000,
             "tipoDeCambio": null,
             "moneda": "ARS",
             "codigoExterno": "4567"
