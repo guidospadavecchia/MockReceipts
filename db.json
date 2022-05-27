@@ -1,0 +1,74 @@
+{
+    "receipts": [
+        {
+            "id": 1,
+            "comprobante": "00001",
+            "tipoComprobante": "F",
+            "letra": "C",
+            "fechaEmision": "2022-03-01T00:00:00.000",
+            "fechaVencimiento": "2023-03-01T00:00:00.000",
+            "descripción": "Semillas",
+            "saldoTotal": 2500,
+            "saldoPendiente": 0,
+            "tipoDeCambio": 200,
+            "moneda": "USD",
+            "codigoExterno": "1234"
+        },
+        {
+            "id": 2,
+            "comprobante": "00002",
+            "tipoComprobante": "F",
+            "letra": "C",
+            "fechaEmision": "2022-03-01T00:00:00.000",
+            "fechaVencimiento": "2023-03-01T00:00:00.000",
+            "descripción": "Granos",
+            "saldoTotal": 150000,
+            "saldoPendiente": 0,
+            "tipoDeCambio": null,
+            "moneda": "ARS",
+            "codigoExterno": "4321"
+        },
+        {
+            "id": 3,
+            "comprobante": "00005",
+            "tipoComprobante": "N",
+            "letra": "D",
+            "fechaEmision": "2022-03-01T00:00:00.000",
+            "fechaVencimiento": "2023-03-01T00:00:00.000",
+            "descripción": "Ajuste de balance",
+            "saldoTotal": 500,
+            "saldoPendiente": 0,
+            "tipoDeCambio": 200,
+            "moneda": "USD",
+            "codigoExterno": "ND00001"
+        },
+        {
+            "id": 4,
+            "comprobante": "00015",
+            "tipoComprobante": "N",
+            "letra": "C",
+            "fechaEmision": "2022-03-01T00:00:00.000",
+            "fechaVencimiento": "2023-03-01T00:00:00.000",
+            "descripción": "Crédito",
+            "saldoTotal": 10000,
+            "saldoPendiente": 0,
+            "tipoDeCambio": 200,
+            "moneda": "USD",
+            "codigoExterno": "C4505454"
+        },
+        {
+            "id": 5,
+            "comprobante": "00003",
+            "tipoComprobante": "F",
+            "letra": "A",
+            "fechaEmision": "2022-03-01T00:00:00.000",
+            "fechaVencimiento": "2023-03-01T00:00:00.000",
+            "descripción": "Pesticidas",
+            "saldoTotal": 250000,
+            "saldoPendiente": 0,
+            "tipoDeCambio": null,
+            "moneda": "ARS",
+            "codigoExterno": "4567"
+        }
+    ]
+}
