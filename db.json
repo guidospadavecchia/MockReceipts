@@ -2,7 +2,7 @@
     "receipts": [
         {
             "id": 1,
-            "comprobante": "00001",
+            "comprobante": 1,
             "tipoComprobante": "F",
             "letra": "C",
             "fechaEmision": "2022-03-01T00:00:00.000",
@@ -16,7 +16,7 @@
         },
         {
             "id": 2,
-            "comprobante": "00002",
+            "comprobante": 2,
             "tipoComprobante": "F",
             "letra": "C",
             "fechaEmision": "2022-03-01T00:00:00.000",
@@ -30,7 +30,7 @@
         },
         {
             "id": 3,
-            "comprobante": "00005",
+            "comprobante": 3,
             "tipoComprobante": "N",
             "letra": "D",
             "fechaEmision": "2022-03-01T00:00:00.000",
@@ -44,7 +44,7 @@
         },
         {
             "id": 4,
-            "comprobante": "00015",
+            "comprobante": 4,
             "tipoComprobante": "N",
             "letra": "C",
             "fechaEmision": "2022-03-01T00:00:00.000",
@@ -58,7 +58,7 @@
         },
         {
             "id": 5,
-            "comprobante": "00003",
+            "comprobante": 5,
             "tipoComprobante": "F",
             "letra": "A",
             "fechaEmision": "2022-03-01T00:00:00.000",
