@@ -1,7 +1,6 @@
 {
     "receipts": [
         {
-            "id": 1,
             "comprobante": 1,
             "tipoComprobante": "F",
             "letra": "C",
@@ -15,7 +14,6 @@
             "codigoExterno": "1234"
         },
         {
-            "id": 2,
             "comprobante": 2,
             "tipoComprobante": "F",
             "letra": "C",
@@ -29,7 +27,6 @@
             "codigoExterno": "4321"
         },
         {
-            "id": 3,
             "comprobante": 3,
             "tipoComprobante": "N",
             "letra": "D",
@@ -43,7 +40,6 @@
             "codigoExterno": "ND00001"
         },
         {
-            "id": 4,
             "comprobante": 4,
             "tipoComprobante": "N",
             "letra": "C",
@@ -57,7 +53,6 @@
             "codigoExterno": "C4505454"
         },
         {
-            "id": 5,
             "comprobante": 5,
             "tipoComprobante": "F",
             "letra": "A",
