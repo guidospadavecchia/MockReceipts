@@ -1,69 +1,73 @@
 {
+  "receipts": {
+    "clientId": 12,
+    "supplierId": 1,
     "receipts": [
-        {
-            "comprobante": 1,
-            "tipoComprobante": "F",
-            "letra": "C",
-            "fechaEmision": "2022-03-01T00:00:00.000",
-            "fechaVencimiento": "2023-03-01T00:00:00.000",
-            "descripción": "Prueba de importación 1",
-            "saldoTotal": 2500,
-            "saldoPendiente": 0,
-            "tipoDeCambio": 200,
-            "moneda": "USD",
-            "codigoExterno": "1234"
-        },
-        {
-            "comprobante": 2,
-            "tipoComprobante": "F",
-            "letra": "C",
-            "fechaEmision": "2022-03-01T00:00:00.000",
-            "fechaVencimiento": "2023-03-01T00:00:00.000",
-            "descripción": "Prueba de importación 2",
-            "saldoTotal": 150000,
-            "saldoPendiente": 50000,
-            "tipoDeCambio": null,
-            "moneda": "ARS",
-            "codigoExterno": "4321"
-        },
-        {
-            "comprobante": 3,
-            "tipoComprobante": "N",
-            "letra": "D",
-            "fechaEmision": "2022-03-01T00:00:00.000",
-            "fechaVencimiento": "2023-03-01T00:00:00.000",
-            "descripción": "Prueba de importación 3",
-            "saldoTotal": 500,
-            "saldoPendiente": 100,
-            "tipoDeCambio": 200,
-            "moneda": "USD",
-            "codigoExterno": "ND00001"
-        },
-        {
-            "comprobante": 4,
-            "tipoComprobante": "N",
-            "letra": "C",
-            "fechaEmision": "2022-03-01T00:00:00.000",
-            "fechaVencimiento": "2023-03-01T00:00:00.000",
-            "descripción": "Prueba de importación 4",
-            "saldoTotal": 10000,
-            "saldoPendiente": 0,
-            "tipoDeCambio": 200,
-            "moneda": "USD",
-            "codigoExterno": "C4505454"
-        },
-        {
-            "comprobante": 5,
-            "tipoComprobante": "F",
-            "letra": "A",
-            "fechaEmision": "2022-03-01T00:00:00.000",
-            "fechaVencimiento": "2023-03-01T00:00:00.000",
-            "descripción": "Prueba de importación 5",
-            "saldoTotal": 250000,
-            "saldoPendiente": 100000,
-            "tipoDeCambio": null,
-            "moneda": "ARS",
-            "codigoExterno": "4567"
-        }
+      {
+        "comprobante": 1,
+        "tipoComprobante": "F",
+        "letra": "C",
+        "fechaEmision": "2022-03-01T00:00:00.000",
+        "fechaVencimiento": "2023-03-01T00:00:00.000",
+        "descripción": "Prueba de importación 1",
+        "saldoTotal": 2500,
+        "saldoPendiente": 0,
+        "tipoDeCambio": 200,
+        "moneda": "USD",
+        "codigoExterno": "1234"
+      },
+      {
+        "comprobante": 2,
+        "tipoComprobante": "F",
+        "letra": "C",
+        "fechaEmision": "2022-03-01T00:00:00.000",
+        "fechaVencimiento": "2023-03-01T00:00:00.000",
+        "descripción": "Prueba de importación 2",
+        "saldoTotal": 150000,
+        "saldoPendiente": 50000,
+        "tipoDeCambio": null,
+        "moneda": "ARS",
+        "codigoExterno": "4321"
+      },
+      {
+        "comprobante": 3,
+        "tipoComprobante": "N",
+        "letra": "D",
+        "fechaEmision": "2022-03-01T00:00:00.000",
+        "fechaVencimiento": "2023-03-01T00:00:00.000",
+        "descripción": "Prueba de importación 3",
+        "saldoTotal": 500,
+        "saldoPendiente": 100,
+        "tipoDeCambio": 200,
+        "moneda": "USD",
+        "codigoExterno": "ND00001"
+      },
+      {
+        "comprobante": 4,
+        "tipoComprobante": "N",
+        "letra": "C",
+        "fechaEmision": "2022-03-01T00:00:00.000",
+        "fechaVencimiento": "2023-03-01T00:00:00.000",
+        "descripción": "Prueba de importación 4",
+        "saldoTotal": 10000,
+        "saldoPendiente": 0,
+        "tipoDeCambio": 200,
+        "moneda": "USD",
+        "codigoExterno": "C4505454"
+      },
+      {
+        "comprobante": 5,
+        "tipoComprobante": "F",
+        "letra": "A",
+        "fechaEmision": "2022-03-01T00:00:00.000",
+        "fechaVencimiento": "2023-03-01T00:00:00.000",
+        "descripción": "Prueba de importación 5",
+        "saldoTotal": 250000,
+        "saldoPendiente": 100000,
+        "tipoDeCambio": null,
+        "moneda": "ARS",
+        "codigoExterno": "4567"
+      }
     ]
+  }
 }
