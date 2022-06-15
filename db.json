@@ -2,7 +2,7 @@
   "receipts": {
     "cuitCliente": 33717466999,
     "cuitProveedor": 30685146335,
-    "receipts": [
+    "comprobantes": [
       {
         "comprobante": 1,
         "tipoComprobante": "F",
