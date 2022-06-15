@@ -1,7 +1,7 @@
 {
   "receipts": {
-    "clientId": 12,
-    "supplierId": 1,
+    "cuitCliente": 33717466999,
+    "cuitProveedor": 30685146335,
     "receipts": [
       {
         "comprobante": 1,
