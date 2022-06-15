@@ -5,8 +5,7 @@
     "comprobantes": [
       {
         "comprobante": 1,
-        "tipoComprobante": "F",
-        "letra": "C",
+        "tipoComprobante": "FC",
         "fechaEmision": "2022-03-01T00:00:00.000",
         "fechaVencimiento": "2023-03-01T00:00:00.000",
         "descripción": "Prueba de importación 1",
@@ -18,8 +17,7 @@
       },
       {
         "comprobante": 2,
-        "tipoComprobante": "F",
-        "letra": "C",
+        "tipoComprobante": "FC",
         "fechaEmision": "2022-03-01T00:00:00.000",
         "fechaVencimiento": "2023-03-01T00:00:00.000",
         "descripción": "Prueba de importación 2",
@@ -31,8 +29,7 @@
       },
       {
         "comprobante": 3,
-        "tipoComprobante": "N",
-        "letra": "D",
+        "tipoComprobante": "ND",
         "fechaEmision": "2022-03-01T00:00:00.000",
         "fechaVencimiento": "2023-03-01T00:00:00.000",
         "descripción": "Prueba de importación 3",
@@ -44,8 +41,7 @@
       },
       {
         "comprobante": 4,
-        "tipoComprobante": "N",
-        "letra": "C",
+        "tipoComprobante": "NC",
         "fechaEmision": "2022-03-01T00:00:00.000",
         "fechaVencimiento": "2023-03-01T00:00:00.000",
         "descripción": "Prueba de importación 4",
@@ -57,8 +53,7 @@
       },
       {
         "comprobante": 5,
-        "tipoComprobante": "F",
-        "letra": "A",
+        "tipoComprobante": "FA",
         "fechaEmision": "2022-03-01T00:00:00.000",
         "fechaVencimiento": "2023-03-01T00:00:00.000",
         "descripción": "Prueba de importación 5",
