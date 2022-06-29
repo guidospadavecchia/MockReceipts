@@ -1,9 +1,9 @@
 {
   "receipts": {
-    "cuitCliente": 33717466999,
     "cuitProveedor": 30685146335,
     "comprobantes": [
       {
+        "cuitCliente": 33717466999,
         "comprobante": 1,
         "tipoComprobante": "FC",
         "fechaEmision": "2022-03-01T00:00:00.000",
@@ -16,6 +16,7 @@
         "codigoExterno": "1234"
       },
       {
+        "cuitCliente": 33717466999,
         "comprobante": 2,
         "tipoComprobante": "FC",
         "fechaEmision": "2022-03-01T00:00:00.000",
@@ -28,6 +29,7 @@
         "codigoExterno": "4321"
       },
       {
+        "cuitCliente": 33717466999,
         "comprobante": 3,
         "tipoComprobante": "ND",
         "fechaEmision": "2022-03-01T00:00:00.000",
@@ -40,6 +42,7 @@
         "codigoExterno": "ND00001"
       },
       {
+        "cuitCliente": 33717466999,
         "comprobante": 4,
         "tipoComprobante": "NC",
         "fechaEmision": "2022-03-01T00:00:00.000",
@@ -52,6 +55,7 @@
         "codigoExterno": "C4505454"
       },
       {
+        "cuitCliente": 33717466999,
         "comprobante": 5,
         "tipoComprobante": "FA",
         "fechaEmision": "2022-03-01T00:00:00.000",
