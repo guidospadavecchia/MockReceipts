@@ -4,19 +4,6 @@
     "comprobantes": [
       {
         "cuitCliente": 33717466999,
-        "comprobante": 1,
-        "tipoComprobante": "FC",
-        "fechaEmision": "2022-03-01T00:00:00.000",
-        "fechaVencimiento": "2023-03-01T00:00:00.000",
-        "descripcion": "Prueba de importación 1",
-        "saldoTotal": 2500,
-        "saldoPendiente": 0,
-        "tipoDeCambio": 200,
-        "moneda": "USD",
-        "codigoExterno": "1234"
-      },
-      {
-        "cuitCliente": 33717466999,
         "comprobante": 2,
         "tipoComprobante": "FC",
         "fechaEmision": "2022-03-01T00:00:00.000",
@@ -36,23 +23,10 @@
         "fechaVencimiento": "2023-03-01T00:00:00.000",
         "descripcion": "Prueba de importación 3",
         "saldoTotal": 500,
-        "saldoPendiente": 100,
+        "saldoPendiente": 50,
         "tipoDeCambio": 200,
         "moneda": "USD",
         "codigoExterno": "ND00001"
-      },
-      {
-        "cuitCliente": 33717466999,
-        "comprobante": 4,
-        "tipoComprobante": "NC",
-        "fechaEmision": "2022-03-01T00:00:00.000",
-        "fechaVencimiento": "2023-03-01T00:00:00.000",
-        "descripcion": "Prueba de importación 4",
-        "saldoTotal": 10000,
-        "saldoPendiente": 0,
-        "tipoDeCambio": 200,
-        "moneda": "USD",
-        "codigoExterno": "C4505454"
       },
       {
         "cuitCliente": 33717466999,
@@ -62,10 +36,49 @@
         "fechaVencimiento": "2023-03-01T00:00:00.000",
         "descripcion": "Prueba de importación 5",
         "saldoTotal": 250000,
-        "saldoPendiente": 100000,
+        "saldoPendiente": 5000,
         "tipoDeCambio": null,
         "moneda": "ARS",
         "codigoExterno": "4567"
+      },
+      {
+        "cuitCliente": 33717466999,
+        "comprobante": 6,
+        "tipoComprobante": "FB",
+        "fechaEmision": "2022-07-04T00:00:00.000",
+        "fechaVencimiento": "2023-04-01T00:00:00.000",
+        "descripcion": "Prueba de importación 6",
+        "saldoTotal": 11550,
+        "saldoPendiente": 11550,
+        "tipoDeCambio": null,
+        "moneda": "ARS",
+        "codigoExterno": "FB00006"
+      },
+      {
+        "cuitCliente": 33717466999,
+        "comprobante": 6,
+        "tipoComprobante": "FB",
+        "fechaEmision": "2022-07-04T00:00:00.000",
+        "fechaVencimiento": "2023-04-01T00:00:00.000",
+        "descripcion": "Prueba de importación 6",
+        "saldoTotal": 11550,
+        "saldoPendiente": 11550,
+        "tipoDeCambio": null,
+        "moneda": "ARS",
+        "codigoExterno": "FB00006"
+      },
+      {
+        "cuitCliente": 33717466999,
+        "comprobante": 7,
+        "tipoComprobante": "FC",
+        "fechaEmision": "2022-07-04T00:00:00.000",
+        "fechaVencimiento": "2023-04-07T00:00:00.000",
+        "descripcion": "Prueba de importación 7",
+        "saldoTotal": 5000,
+        "saldoPendiente": 5000,
+        "tipoDeCambio": 280,
+        "moneda": "USD",
+        "codigoExterno": "FCUSD007"
       }
     ]
   }
