@@ -56,19 +56,6 @@
       },
       {
         "cuitCliente": 33717466999,
-        "comprobante": 6,
-        "tipoComprobante": "FB",
-        "fechaEmision": "2022-07-04T00:00:00.000",
-        "fechaVencimiento": "2023-04-01T00:00:00.000",
-        "descripcion": "Prueba de importación 6",
-        "saldoTotal": 11550,
-        "saldoPendiente": 11550,
-        "tipoDeCambio": null,
-        "moneda": "ARS",
-        "codigoExterno": "FB00006"
-      },
-      {
-        "cuitCliente": 33717466999,
         "comprobante": 7,
         "tipoComprobante": "FC",
         "fechaEmision": "2022-07-04T00:00:00.000",
